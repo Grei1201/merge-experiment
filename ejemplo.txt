@@ -1,1 +1,2 @@
-Cambios con el PR con conflicto
+
+Cambios desde la rama A
